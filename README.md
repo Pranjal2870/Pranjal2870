@@ -23,6 +23,6 @@
 
 
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Pranjal2870&&show_icons=true&title_color=c04000&icon_color=ffa500&text_color=fed8b1&bg_color=151515">
-<img align="left" height=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal2870&layout=compact /">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal2870&layout=compact /">
 
 
