@@ -9,7 +9,7 @@
 - 📫 How to reach me: LinkedIn:[Pranjal Srivastava](https://www.linkedin.com/in/pranjal-srivastava2807)
 - 😄 Pronouns: He/His
 
-<img src="https://camo.githubusercontent.com/8d0f36578270a341ecd39d5bc48fed13bf1c3177097f0e801b80783860bd8aec/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517056554d52554a476f6b667158796661312f67697068792e676966" width=500 height=150 align="right">
+<img src="https://camo.githubusercontent.com/8d0f36578270a341ecd39d5bc48fed13bf1c3177097f0e801b80783860bd8aec/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517056554d52554a476f6b667158796661312f67697068792e676966" width=500 height=130 align="right">
 
 
 
