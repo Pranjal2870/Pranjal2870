@@ -12,7 +12,6 @@
 <img src="https://camo.githubusercontent.com/8d0f36578270a341ecd39d5bc48fed13bf1c3177097f0e801b80783860bd8aec/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517056554d52554a476f6b667158796661312f67697068792e676966" width=500 height=130 align="right">
 
 
-
 - Languages known:- 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
