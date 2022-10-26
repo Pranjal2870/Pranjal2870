@@ -1,9 +1,9 @@
-### Hey! I'm Pranjal Srivastava. <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/waving.gif" width="30px">
+### <h1>Hey! I'm Pranjal Srivastava. <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/waving.gif" width="30px"></h1>
 <img src="https://camo.githubusercontent.com/4a46eb5058f8143315407c641c2a46eabe7edd2c46f71eff07cd6e49d18ecce0/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d3232333441452673697a653d32352663656e7465723d74727565267643656e7465723d747275652677696474683d343530266865696768743d3330266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652e2e2e3b476c61642b746f2b7365652b796f752b6865726521">
 
      
      
-- 🔭 I’m currently doing Google Supported Virtual Internship Program at @SmartInternz 
+- 🔭 I’m currently doing Salesforce Supported Virtual Internship Program at @SmartInternz 
 - 🌱 I’m currently learning Web Development and Machine Learning 
 - 👯 I’m looking to collaborate on Web Development Projects and Machine Learning Projects
 - 📫 How to reach me: LinkedIn:[Pranjal Srivastava](https://www.linkedin.com/in/pranjal-srivastava2807)
