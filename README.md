@@ -3,7 +3,7 @@
 
      
      
-- 🔭 I’m currently a Subject Matter Expert in CSE @Chegg Inc
+- 🔭 I’m currently a Subject Matter Expert of CSE @Chegg Inc
 - 🔭 I’m currently doing Salesforce Supported Virtual Internship Program at @SmartInternz  
 - 🌱 I’m currently learning Web Development and Machine Learning 
 - 👯 I’m looking to collaborate on Web Development Projects and Machine Learning Projects
