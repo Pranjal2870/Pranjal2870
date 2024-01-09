@@ -1,15 +1,15 @@
 ### <h1>Hey! I'm Pranjal Srivastava. <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/waving.gif" width="30px"></h1>
-<img src="https://camo.githubusercontent.com/4a46eb5058f8143315407c641c2a46eabe7edd2c46f71eff07cd6e49d18ecce0/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d3232333441452673697a653d32352663656e7465723d74727565267643656e7465723d747275652677696474683d343530266865696768743d3330266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c652e2e2e3b476c61642b746f2b7365652b796f752b6865726521">
+
 
      
      
-- 🔭 I’m currently a Subject Matter Expert of CSE @Chegg Inc  
+- 🔭 I’m 2X Microsoft Certified  
 - 🌱 I’m currently learning Web Development and Machine Learning
 - 👯 I’m looking to collaborate on Web Development Projects and Machine Learning Projects
 - 📫 How to reach me: LinkedIn:[Pranjal Srivastava](https://www.linkedin.com/in/pranjal-srivastava2807)
 - 😄 Pronouns: He/His
 
-<img src="https://camo.githubusercontent.com/8d0f36578270a341ecd39d5bc48fed13bf1c3177097f0e801b80783860bd8aec/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517056554d52554a476f6b667158796661312f67697068792e676966" width=300 height=130 align="right">
+<img src="https://stats.quine.sh/Pranjal2870/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pranjal2870)" width=500 height=300 align="right">
 
 
 - Languages known:- 
@@ -30,6 +30,3 @@
 
 
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=Pranjal2870&&show_icons=true&title_color=c04000&icon_color=ffa500&text_color=fed8b1&bg_color=151515">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal2870&layout=compact%20/">
-
-
