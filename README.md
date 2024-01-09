@@ -9,7 +9,7 @@
 - 📫 How to reach me: LinkedIn:[Pranjal Srivastava](https://www.linkedin.com/in/pranjal-srivastava2807)
 - 😄 Pronouns: He/His
 
-<img src="https://stats.quine.sh/Pranjal2870/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pranjal2870)" width=500 height=300 align="right">
+<img src="https://stats.quine.sh/Pranjal2870/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Pranjal2870)" width=300 height=200 align="right">
 
 
 - Languages known:- 
