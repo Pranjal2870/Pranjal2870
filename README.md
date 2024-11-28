@@ -13,7 +13,7 @@ I am currently a Graduate Engineer Trainee @HCLTech. I completed B.Tech in Compu
 
 🔭 **I’m a Graduate Engineer Trainee @HCLTech**<br>
 🔭 **I’m a 2X Microsoft Certified | LinkedIn Certified Marketing Insider**<br>
-🌱 **Learning:** Full Stack Development  
+🌱 **Learning:** Data Analytics, Full Stack Development  
 👯 **Looking to collaborate on:** Open-source projects and innovative web applications  
 🔭 **Working on:** Enhancing my skills in React.js, Next.js, Tailwind CSS, Redux, Firebase, JavaScript, and SpringBoot  
 💬 **Ask me about:** Web Development, Problem Solving in C++, Data Analytics and Full Stack Development  
