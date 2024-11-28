@@ -7,15 +7,16 @@
 
 
 # 💫 About Me:
-I am a passionate and aspiring Full Stack Web Developer completed B.Tech in Computer Science and Engineering specialization in Data Sciecne and AI from Shri Ramswaroop Memorial University(SRMU). With a solid foundation in programming and a keen interest in web development, I aim to create innovative and user-friendly solutions to solve real-world problems.
+I am currently a Graduate Engineer Trainee @HCLTech. I completed B.Tech in Computer Science and Engineering specialization in Data Sciecne and AI from Shri Ramswaroop Memorial University(SRMU). With a solid foundation in programming and a keen interest in web development, I aim to create innovative and user-friendly solutions to solve real-world problems.
 <br>
 </br>
 
+🔭 **I’m a Graduate Engineer Trainee @HCLTech**<br>
 🔭 **I’m a 2X Microsoft Certified | LinkedIn Certified Marketing Insider**<br>
 🌱 **Learning:** Full Stack Development  
 👯 **Looking to collaborate on:** Open-source projects and innovative web applications  
 🔭 **Working on:** Enhancing my skills in React.js, Next.js, Tailwind CSS, Redux, Firebase, JavaScript, and SpringBoot  
-💬 **Ask me about:** Web Development, Problem Solving in C++, and Full Stack Development  
+💬 **Ask me about:** Web Development, Problem Solving in C++, Data Analytics and Full Stack Development  
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pranjal-srivastava2807/) | [Email](mailto:pranjalsrivastava2807@gmail.com)  
 😄 **Pronouns:** He/His  
 
