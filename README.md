@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-I am currently a Graduate Engineer Trainee @HCLTech. I completed B.Tech in Computer Science and Engineering specialization in Data Sciecne and AI from Shri Ramswaroop Memorial University(SRMU). With a solid foundation in programming and a keen interest in web development, I aim to create innovative and user-friendly solutions to solve real-world problems.
+I am currently a Graduate Engineer Trainee @HCLTech. I completed B.Tech in Computer Science and Engineering specialization in Data Science and AI from Shri Ramswaroop Memorial University(SRMU). With a solid foundation in programming and a keen interest in web development, I aim to create innovative and user-friendly solutions to solve real-world problems.
 <br>
 </br>
 
